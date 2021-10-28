@@ -941,7 +941,7 @@ var defaults = Config{
 			GitStashedBg:       4,
 			GoenvBg:            38,  // approx. Gopher Blue
 			GoenvFg:            220, // approx. Secondary Yellow
-			VirtualEnvFg:       8,
+			VirtualEnvFg:       15,
 			VirtualEnvBg:       6,
 			PerlbrewFg:         8,
 			PerlbrewBg:         4,
